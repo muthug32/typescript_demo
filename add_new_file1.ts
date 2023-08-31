@@ -1,5 +1,5 @@
-function newFunction(test: number) {
-  return 10;
+function newFunction(test: string) {
+  return '1000';
 }
 // adding some changes
 export default newFunction;
